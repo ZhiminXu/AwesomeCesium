@@ -16,4 +16,6 @@ Awesome lists about all kinds of cesium related resources.本项目列出了与C
 + [3dtiles](https://github.com/fanvanzh/3dtiles). The so-called fastest tools for 3dtiles converting tool in the world, including osgb-to-3dtiles, shapefile-to-3dtiles and fbx-to-3dtiles converting. 号称世界上最快的 3dtiles 转换工具，支持倾斜摄影数据、shapefile 数据转3dtiles，支持 osg、osgb、obj、fbx、3ds、b3dm等单一通用模型数据转为 gltf、glb 格式。
 + [COLLADA2GLTF](https://github.com/KhronosGroup/COLLADA2GLTF). A command-line tool to convert COLLADA (.dae) files to glTF supporting Windows, MacOS, and Linux. 一个将COLLADA（.dae格式）模型转换为gltf格式的命令行工具，支持Windows、MacOS和Linux。
 + [gltf-to-3dtiles](https://github.com/nxddsnc/gltf-to-3dtiles). A command line tool to convert gltf(glb) file to 3d tiles format.一个将gltf或glb格式转化为3dtiles的命令行工具。
++ [obj2gltf](https://github.com/CesiumGS/obj2gltf).  Node command line tool to convert OBJ assets to glTF 2.0. 将obj格式文件转换为gltf 2.0格式的Node命令行工具。
++ [objTo3d-tiles](https://github.com/PrincessGod/objTo3d-tiles). Node command line tool and module convert obj model file to 3D Tiles, based on [obj2gltf](https://github.com/CesiumGS/obj2gltf). 基于[obj2gltf](https://github.com/CesiumGS/obj2gltf), 将obj模型文件转换为3dtiles格式的Node命令行工具
 + [citygml-to-3dtiles](https://github.com/njam/citygml-to-3dtiles). A very basic and experimental converter from CityGML to Cesium 3D Tiles. 一个将CityGML格式转化为3dtiles的**基础实验性**命令行工具。
