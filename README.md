@@ -19,3 +19,19 @@ Awesome lists about all kinds of cesium related resources.本项目列出了与C
 + [obj2gltf](https://github.com/CesiumGS/obj2gltf).  Node command line tool to convert OBJ assets to glTF 2.0. 将obj格式文件转换为gltf 2.0格式的Node命令行工具。
 + [objTo3d-tiles](https://github.com/PrincessGod/objTo3d-tiles). Node command line tool and module convert obj model file to 3D Tiles, based on [obj2gltf](https://github.com/CesiumGS/obj2gltf). 基于[obj2gltf](https://github.com/CesiumGS/obj2gltf), 将obj模型文件转换为3dtiles格式的Node命令行工具
 + [citygml-to-3dtiles](https://github.com/njam/citygml-to-3dtiles). A very basic and experimental converter from CityGML to Cesium 3D Tiles. 一个将CityGML格式转化为3dtiles的**基础实验性**命令行工具。
+
+
+
+## 2 Front-end Framework Integration 前端框架集成
+
+### 2.1 Angular
++ [cesium-angular-example](https://github.com/Developer-Plexscape/cesium-angular-example). A simple web application that demonstrates integration of Cesium with the LATEST version of Angular. 一个简单的web应用程序，演示了Cesium与最新版的Angular的集成。
++ [angular-cesium](https://github.com/articodeltd/angular-cesium). JavaScript library for creating map based web apps using Cesium and Angular, which is an angular wrapper for cesium.js. 使用Cesium与Angular创建地图Web应用的JavaScript库，基于Angular对cesium.js进行了封装。
+
+### 2.2 Vue
++ [cesium-vue](https://github.com/ShareQiu1994/cesium-vue). Cesium development template based on vueCli 4.x.x +. 基于vueCli 4.x.x + 的cesium开发模板.
++ [vue-cesium](https://github.com/zouyaoji/vue-cesium). Vue 2.x components for CesiumJS. Load Cesium built package or other third-party packages which are built on Cesium. 基于 Vue2.x的 Cesium 三维地图组件,
+
+### 2.3 React
++ [resium](https://github.com/darwin-education/resium). React components for Cesium. 基于React封装的Cesium组件库。
++ [cesium_demos](https://github.com/NichijouCC/cesium_demos). Demo applications based on cesium, react and typescript. 使用cesium+react+ts编写的cesium使用样例程序库。
