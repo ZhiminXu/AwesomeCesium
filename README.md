@@ -50,6 +50,8 @@ Awesome lists about all kinds of cesium related resources.本项目列出了与C
 ### 3.3 Data Visualization 数据展示
 + [CesiumHeatmap](https://github.com/manuelnas/CesiumHeatmap). A library to add heatmaps (using heatmap.js) to the Cesium framework. 使用HeatMap.js 向Cesium地图添加热力图的扩展库。
 + [3D-Wind-Field](https://github.com/RaymanNg/3D-Wind-Field). Visualize wind field on Cesium. 基于Cesium实现三维环境下风场数据的可视化。
++ [d3cesium](https://github.com/abwood/d3cesium). Demo web app featuring Cesium and d3 libraries. 基于Cesium与D3.js结合的示例程序。
++ [CesiumMeshVisualizer](https://github.com/MikesWei/CesiumMeshVisualizer). Make you can use three.js geometry in Cesium,and use mesh,geometry,material like three.js to manage renderable object in Cesium. 可以让你在Cesium中使用three.js对可渲染对象的三角网、几何、材质等信息进行管理。
 
 ### 3.4 Editor 编辑功能
 + [cesium-drawhelper](https://github.com/leforthomas/cesium-drawhelper). A very early stage shape editor for Cesium. Currently limited to 2D and simple shapes. Cesium矢量编辑工具，早期版本，目前仅限于二维与简单矢量的编辑。
