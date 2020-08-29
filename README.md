@@ -8,6 +8,7 @@ Awesome lists about all kinds of cesium related resources.本项目列出了与C
 
 + [cesium-terrain-builder](https://github.com/geo-data/cesium-terrain-builder). A C++ library and associated command line tools designed to create terrain tiles for use in the Cesium JavaScript library. 基于C++的Cesium地形瓦片创建工具库及相关命令行工具。
 + [ctb-quantized-mesh](https://github.com/ahuarte47/cesium-terrain-builder/tree/master-quantized-mesh). A branch of cesium-terrain-builder to generate quantized-mesh format cesium terrain tiles. The quantized-mesh format follows the same tile structure as heightmap tiles, but each tile is better optimised for large-scale terrain rendering. CTB的一个分支，支持离散网格（不规则三角网）格式地形瓦片的生成。离散网格地形瓦片与高度图（规则格网）地形瓦片的文件结构相同，但是对于大范围地形渲染具有更高的效率。
++ [gdal2cesium](https://github.com/giohappy/gdal2cesium). A Python command line utility, based on GDAL and inspired by gdal2tiles, to generate terrain heightmap tiles accordig to the native Cesium format. 基于GDAL的Python命令行工具，可以生产高度图格式的Cesium地形数据。
 + [Cesium Terrain Server](https://github.com/geo-data/cesium-terrain-server).A basic server for serving up filesystem based tilesets representing Cesium.js terrain models. The resources served up are intended for use with the CesiumTerrainProvider JavaScript class present in the Cesium.js client. 一个可以将Cesium地形瓦片进行文件发布的服务端程序。瓦片发布后，在客户端中可通过CesiumTerrainProvider进行接入使用。
 + [mbtiles-terrain-server](https://github.com/TNOCS/mbtiles-terrain-server). A mbtiles service that can import millions of small cesium terrain tiles into only a mbtiles (sqlite3) database file and serve them via http. 一个mbtiles服务发布程序，可以将成千上万的Cesium地形瓦片数据导入到一个sqlite数据库文件，并通过http进行发布。
 
@@ -52,6 +53,8 @@ Awesome lists about all kinds of cesium related resources.本项目列出了与C
 + [3D-Wind-Field](https://github.com/RaymanNg/3D-Wind-Field). Visualize wind field on Cesium. 基于Cesium实现三维环境下风场数据的可视化。
 + [d3cesium](https://github.com/abwood/d3cesium). Demo web app featuring Cesium and d3 libraries. 基于Cesium与D3.js结合的示例程序。
 + [CesiumMeshVisualizer](https://github.com/MikesWei/CesiumMeshVisualizer). Make you can use three.js geometry in Cesium,and use mesh,geometry,material like three.js to manage renderable object in Cesium. 可以让你在Cesium中使用three.js对可渲染对象的三角网、几何、材质等信息进行管理。
++ [ol-cesium](https://github.com/openlayers/ol-cesium). OpenLayers - Cesium integration library. Create your map using OpenLayers, and visualize it on a globe with Cesium. OpenLayer与Cesium的继承库，可以让你使用OpenLayers创建二维地图并在Cesium中进行可视化。
++ [cesium-vr](https://github.com/NICTA/cesium-vr). Plugin for Cesium web-based virtual globe software to support the Oculus VR headset. Cesium的VR插件，支持将web端数字地球接入Oculus头盔中显示。
 
 ### 3.4 Editor 编辑功能
 + [cesium-drawhelper](https://github.com/leforthomas/cesium-drawhelper). A very early stage shape editor for Cesium. Currently limited to 2D and simple shapes. Cesium矢量编辑工具，早期版本，目前仅限于二维与简单矢量的编辑。
