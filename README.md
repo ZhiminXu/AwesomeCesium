@@ -60,10 +60,11 @@ Awesome lists about all kinds of cesium related resources.本项目列出了与C
 ### 3.4 Editor 编辑功能
 + [cesium-drawhelper](https://github.com/leforthomas/cesium-drawhelper). A very early stage shape editor for Cesium. Currently limited to 2D and simple shapes. Cesium矢量编辑工具，早期版本，目前仅限于二维与简单矢量的编辑。
 
-## 4 Cesium based 3DGIS SDK 基于Cesium的三维GIS开发包
+## 4 Cesium based SDK 基于Cesium的三维GIS开发包
 + [dc-sdk](https://github.com/dvgis/dc-sdk). DC-SDK is based on the open source project Cesium for the second development of two three-dimensional WebGis application framework , the framework optimizes the use of Cesium and adds some additional features , designed for developers to quickly build WebGis application. DC-SDK 是基于Cesium的三维WebGIS开发框架，该框架优化了Cesium的部分功能，并补充了一些新特定，可辅助开发者进行WebGIS应用的快速搭建。
 + [mars3d](https://github.com/marsgis/mars3d). Mars3d 3D Earth platform is a B/S architecture 3D client development platform developed by Mars Technology based on webgl and cesium, which supports multi industry applications. Mars3D 三维地球平台软件是火星科技研发的一款基于 WebGL、Cesium优化提升的B/S架构三维客户端开发平台，支持多行业扩展应用。
 
 ## 5 Demos 示例程序
 + [Cesium.HPUZYZ.Demo](https://github.com/YanzheZhang/Cesium.HPUZYZ.Demo).This project is some demos of CESIUM. Much of them are from other people's blogs and cesium's official website. Thanks to my good friend [MikesWei](https://github.com/MikesWei) for giving me great help. 这个项目整理了基于Cesium的各种示例程序，大部分都是来自于其他人的博客和Cesium官方网站。感谢 [MikesWei](https://github.com/MikesWei)给我的巨大帮助。
 + [CesiumJS-tutorial](https://github.com/hujiulin/CesiumJS-tutorial).Offical tutorial from Cesium Chinese Website ( http://cesiumcn.org/ | http://cesium.coinidea.com/ ). [Cesium中文网](http://cesiumcn.org/)官网教程。
++ [ExamplesforCesium](https://github.com/pasu/ExamplesforCesium). Pasu's personal examples for Cesium, hopefully may it help you to build this beautiful world~. Pasu个人开发的基于Cesium的示例程序，希望能帮助你创造一个美好的世界。
