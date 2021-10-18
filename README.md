@@ -61,7 +61,7 @@ Awesome lists about all kinds of cesium related resources.本项目列出了与C
 + [cesium-drawhelper](https://github.com/leforthomas/cesium-drawhelper). A very early stage shape editor for Cesium. Currently limited to 2D and simple shapes. Cesium矢量编辑工具，早期版本，目前仅限于二维与简单矢量的编辑。
 
 ### 3.5 Plotting 标绘功能
-+ [drawForCesium](https://github.com/adventureXPH/drawForCesium). Based on the Cesium framework and the drawHelper plug-in, the dynamic plotting function is added.基于Cesium框架增加动态标绘功能，以drawHelper插件为原型进行了二次开发。
++ [drawForCesium](https://github.com/adventureXPH/drawForCesium). Based on the Cesium framework and the [drawhelper](https://github.com/leforthomas/cesium-drawhelper) plug-in, the dynamic plotting function is added.基于Cesium框架增加动态标绘功能，以drawHelper插件为原型进行了二次开发。
 
 ## 4 Cesium based SDK 基于Cesium的三维GIS开发包
 + [dc-sdk](https://github.com/dvgis/dc-sdk). DC-SDK is based on the open source project Cesium for the second development of two three-dimensional WebGis application framework , the framework optimizes the use of Cesium and adds some additional features , designed for developers to quickly build WebGis application. DC-SDK 是基于Cesium的三维WebGIS开发框架，该框架优化了Cesium的部分功能，并补充了一些新特定，可辅助开发者进行WebGIS应用的快速搭建。
