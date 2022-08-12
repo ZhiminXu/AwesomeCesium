@@ -48,11 +48,10 @@ Awesome lists about all kinds of cesium related resources.本项目列出了与C
 ### 3.2 UI 界面元素
 
 + [cesium-navigation](https://github.com/alberto-acevedo/cesium-navigation). Cesium plugin that adds to the Cesium map a compass, navigator (zoom in/out), and distance scale. 可以给Cesium地图添加罗盘、地图缩放、比例尺等工具条的插件。
++ [CesiumContextMenu](https://github.com/ElevenIjusee/CesiumContextMenu). Cesium's context menu plug-in. cesium的右键菜单插件。
 
 ### 3.3 Data Visualization 数据展示
 + [CesiumHeatmap](https://github.com/manuelnas/CesiumHeatmap). A library to add heatmaps (using heatmap.js) to the Cesium framework. 使用HeatMap.js 向Cesium地图添加热力图的扩展库。
-+ [3D-Wind-Field](https://github.com/RaymanNg/3D-Wind-Field). Visualize wind field on Cesium. 基于Cesium实现三维环境下风场数据的可视化。
-+ [Wind-Field-Cesium](https://github.com/AlbertEjiestein/Wind-Field-Cesium). Visualize the wind on earth, powered by Cesium JS. 基于Cesium实现三维环境下风场数据的可视化，在[3D-Wind-Field](https://github.com/RaymanNg/3D-Wind-Field)这个项目的基础上添加了颜色表配置，可实现彩色的风场可视化。
 + [d3cesium](https://github.com/abwood/d3cesium). Demo web app featuring Cesium and d3 libraries. 基于Cesium与D3.js结合的示例程序。
 + [CesiumMeshVisualizer](https://github.com/MikesWei/CesiumMeshVisualizer). Make you can use three.js geometry in Cesium,and use mesh,geometry,material like three.js to manage renderable object in Cesium. 可以让你在Cesium中使用three.js对可渲染对象的三角网、几何、材质等信息进行管理。
 + [ol-cesium](https://github.com/openlayers/ol-cesium). OpenLayers - Cesium integration library. Create your map using OpenLayers, and visualize it on a globe with Cesium. OpenLayer与Cesium的继承库，可以让你使用OpenLayers创建二维地图并在Cesium中进行可视化。
@@ -73,3 +72,9 @@ Awesome lists about all kinds of cesium related resources.本项目列出了与C
 + [CesiumJS-tutorial](https://github.com/hujiulin/CesiumJS-tutorial).Offical tutorial from Cesium Chinese Website ( http://cesiumcn.org/ | http://cesium.coinidea.com/ ). [Cesium中文网](http://cesiumcn.org/)官网教程。
 + [ExamplesforCesium](https://github.com/pasu/ExamplesforCesium). Pasu's personal examples for Cesium, hopefully may it help you to build this beautiful world~. Pasu个人开发的基于Cesium的示例程序，希望能帮助你创造一个美好的世界。
 + [cesium_demos](https://github.com/NichijouCC/cesium_demos). Some demos of Cesium based on React and TypeScript.使用cesium+react+ts编写的cesium使用样例库。
+
+## 6 Applications 项目应用
++ [cesium-satellites](https://github.com/KhaledSharif/cesium-satellites). View the orbit of satellites in a Cesium viewer, derived from a two line element list. 在Cesium viewer中显示卫星轨道。
++ [satvis](https://github.com/Flowm/satvis). Satellite orbit visualization and pass prediction. 卫星轨道可视化和轨道预测。
++ [3D-Wind-Field](https://github.com/RaymanNg/3D-Wind-Field). Visualize wind field on Cesium. 基于Cesium实现三维环境下风场数据的可视化。
++ [Wind-Field-Cesium](https://github.com/AlbertEjiestein/Wind-Field-Cesium). Visualize the wind on earth, powered by Cesium JS. 基于Cesium实现三维环境下风场数据的可视化，在[3D-Wind-Field](https://github.com/RaymanNg/3D-Wind-Field)这个项目的基础上添加了颜色表配置，可实现彩色的风场可视化。
