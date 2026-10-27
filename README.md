@@ -74,6 +74,7 @@ Awesome lists about all kinds of cesium related resources.本项目列出了与C
 + [cesium_demos](https://github.com/NichijouCC/cesium_demos). Some demos of Cesium based on React and TypeScript.使用cesium+react+ts编写的cesium使用样例库。
 
 ## 6 Applications 项目应用
++ [drone-camera](https://github.com/chenlong2019/drone-camera). A framework-agnostic browser drone control library: one zero-dependency flight core drives both a three.js sandbox and a CesiumJS real-Earth backend, with waypoint mission editing, photo capture, panorama stitching and an MCP server that lets an AI agent fly it. 与框架无关的浏览器无人机控制库——同一套零依赖飞控内核同时驱动 three.js 沙盒与 CesiumJS 真实地球后端，支持航点航线编辑、拍照采集、全景拼接，并提供 MCP 服务让 AI 直接操控飞行。在线 Demo：https://chenlong2019.github.io/drone-camera/
 + [cesium-satellites](https://github.com/KhaledSharif/cesium-satellites). View the orbit of satellites in a Cesium viewer, derived from a two line element list. 在Cesium viewer中显示卫星轨道。
 + [satvis](https://github.com/Flowm/satvis). Satellite orbit visualization and pass prediction. 卫星轨道可视化和轨道预测。
 + [3D-Wind-Field](https://github.com/RaymanNg/3D-Wind-Field). Visualize wind field on Cesium. 基于Cesium实现三维环境下风场数据的可视化。
