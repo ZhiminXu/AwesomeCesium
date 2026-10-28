@@ -79,3 +79,4 @@ Awesome lists about all kinds of cesium related resources.本项目列出了与C
 + [satvis](https://github.com/Flowm/satvis). Satellite orbit visualization and pass prediction. 卫星轨道可视化和轨道预测。
 + [3D-Wind-Field](https://github.com/RaymanNg/3D-Wind-Field). Visualize wind field on Cesium. 基于Cesium实现三维环境下风场数据的可视化。
 + [Wind-Field-Cesium](https://github.com/AlbertEjiestein/Wind-Field-Cesium). Visualize the wind on earth, powered by Cesium JS. 基于Cesium实现三维环境下风场数据的可视化，在[3D-Wind-Field](https://github.com/RaymanNg/3D-Wind-Field)这个项目的基础上添加了颜色表配置，可实现彩色的风场可视化。
++ [Terranoetis](https://github.com/sreyassanker/Terranoetis). Real-time 3D planetary hazard simulation engine on CesiumJS and WebGL with 150+ verified physics kernels. 基于CesiumJS与WebGL的三维行星灾害模拟与地理空间智能引擎，内置150+经同行评议的物理方程内核。
